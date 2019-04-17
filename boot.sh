@@ -5,10 +5,10 @@ sudo /etc/init.d/bluetooth stop
 sudo hciconfig hcio up
 
 # update mac address
-./updateMac.sh
+./update_mac.sh
 
 # update name
-./updateName.sh arcade-controller
+./update_name.sh arcade-controller
 
 # get current path
 export C_PATH=$(pwd)
