@@ -71,7 +71,7 @@ class BTKbBluezProfile(dbus.service.Object):
 class BTKbDevice():
     #change these constants 
     MY_ADDRESS="B8:27:EB:0E:E8:0E"
-    MY_DEV_NAME="ThanhLe_Keyboard"
+    MY_DEV_NAME="arcade-controller"
 
     #define some constants
     P_CTRL =17  #Service port - must match port configured in SDP record
