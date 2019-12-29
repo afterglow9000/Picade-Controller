@@ -52,19 +52,3 @@ sudo ./setup.sh
 
 ./boot.sh
 ```
-
-## References
-
-[1] https://shop.pimoroni.com/products/picade-console
-
-[2] https://mlabviet2016.blogspot.com/2017/09/make-raspberry-pi3-as-emulator.html
-
-[3] https://github.com/mlabviet/BL_keyboard_RPI
-
-[4] https://impythonist.wordpress.com/2014/02/01/emulate-a-bluetooth-keyboard-with-the-raspberry-pi/
-
-[5] http://yetanotherpointlesstechblog.blogspot.com
-
-[6] https://github.com/pimoroni/picade-hat
-
-[6] https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h
