@@ -1,4 +1,4 @@
-# Arcade Controller
+# Picade Controller
 
 ## Introduction
 
