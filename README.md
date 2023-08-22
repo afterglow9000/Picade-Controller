@@ -1,4 +1,4 @@
-# Picade Controller
+# Picade-Controller
 
 ## Introduction
 
