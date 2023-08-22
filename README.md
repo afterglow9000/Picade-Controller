@@ -1,19 +1,14 @@
 # Arcade Controller
 
-## Parts
+## Introduction
 
-- Pimoroni Picade Console
-- Raspberry Pi 3 B+
-- Power supply
-- 8GB microSD card
-- Ethernet cable
+This work is the software portion of the Picade Controller.
 
 ## Procedure
 
-### Step 1: Install Raspian
+1. Install Raspian
 
-
-### Step 2: Picade-Hat Setup
+2. Picade-Hat Setup
 
 ```
 git clone https://github.com/pimoroni/picade-hat
@@ -43,7 +38,7 @@ dtparam=start=27
 sudo reboot
 ```
 
-### Step 3: Bluetooth Setup 
+3. Bluetooth Setup 
 
 ```
 cd BL_keyboard_RPI
